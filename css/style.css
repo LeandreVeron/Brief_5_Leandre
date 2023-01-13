@@ -1,0 +1,26 @@
+.repere{
+    border: solid 2px black;
+    border-collapse: collapse;
+    background-color: rgb(0, 112, 211);
+
+}
+
+body{
+    background-color: gray;
+}
+
+th{
+
+    border: 2px solid black;
+    font-size: 25px bold;
+
+}
+
+td {
+    text-align: center;
+    border-collapse: collapse;
+    border-collapse: separate;
+    border: 2px solid black;
+    font-size: 25px;
+    
+}
